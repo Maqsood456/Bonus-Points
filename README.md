@@ -12,3 +12,6 @@ yes
 branch name with a category word
 
 
+git commit "Write what changes have you done"
+
+
